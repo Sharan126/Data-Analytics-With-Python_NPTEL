@@ -1,4 +1,4 @@
-# Data-Analytics-With-Python_NPTEL
+# Data-Analytics-With-Python-NPTEL
 
 # ✅ Day 01 — Data Analytics with Python (NPTEL)
 ## Lecture 1: Introduction to Data Analytics
