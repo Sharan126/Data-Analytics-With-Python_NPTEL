@@ -1,6 +1,6 @@
 # Data-Analytics-With-Python-NPTEL
 
-# ✅ Day 01 — Data Analyti with Python (NPTEL)
+# ✅ Day 01 — Data Analytic with Python (NPTEL)
 ## Lecture 1: Introduction to Data Analytics
 
 ![Lecture](https://img.shields.io/badge/Lecture-01-blue)
