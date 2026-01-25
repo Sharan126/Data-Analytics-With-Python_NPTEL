@@ -24,7 +24,7 @@ This course helps you become confident using analytics in:
 - ✅ Business decision-making
 - ✅ Everyday life
 
-You will learn:
+learnings:
 - How to work with **real data**
 - Various **methodologies**
 - Importance of selecting the **correct methodology**
