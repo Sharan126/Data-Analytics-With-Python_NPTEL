@@ -124,19 +124,6 @@ In this day, we cover:
 To start data analytics using Python, the first step is setting up Python properly.
 
 ---
-
-## ✅ Option A (Recommended): Install Anaconda
-
-**Why Anaconda?**
-- Comes with Python + major libraries already installed
-- Includes **Jupyter Notebook**
-- Best for data science & analytics beginners
-
-**Steps:**
-1. Download **Anaconda** (Windows/Linux/Mac)
-2. Install it (keep default settings)
-3. Open:
-   - **Anaconda Navigator**
    - OR directly launch **Jupyter Notebook**
 
 ---
