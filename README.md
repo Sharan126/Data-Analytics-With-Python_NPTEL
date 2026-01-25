@@ -11,7 +11,8 @@
 - **Platform:** NPTEL Online Certification  
 - **Instructor:** Dr. A. Ramesh  
 - **Department:** Management, IIT Roorkee  
-- **Lecture:** 1 (Introduction to Data Analytics)
+- **Weeks:**  12
+- **Credits:** 3
 
 ---
 
