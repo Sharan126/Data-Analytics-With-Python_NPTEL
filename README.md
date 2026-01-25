@@ -149,5 +149,39 @@ To start data analytics using Python, the first step is setting up Python proper
 3. ✅ Important: Select **"Add Python to PATH"**
 4. Verify installation:
    ```bash
-   python --version
+
+# ✅ Day 03 — Python Fundamentals II + Data Handling & Visualization
+
+![Python](https://img.shields.io/badge/Python-Pandas-blue?logo=python)
+![Topic](https://img.shields.io/badge/Topic-Data%20Subsetting-green)
+![Lecture](https://img.shields.io/badge/Lecture-03-orange)
+
+---
+
+
+This lecture covers:
+
+- Subsetting rows using `loc` and `iloc`
+- Subsetting columns
+- Selecting ranges
+- Accessing specific cells
+- Grouped statistics (mean)
+- Frequency counts
+- Data visualization principles
+- Types of graphs (Histogram, Scatter, Pie, etc.)
+
+(Source: Lecture 3 Slides) :contentReference[oaicite:1]{index=1}
+
+---
+
+## 📂 Dataset Used: Gapminder
+
+```python
+import pandas as pd
+
+url = "https://raw.githubusercontent.com/jennybc/gapminder/main/inst/extdata/gapminder.tsv"
+df = pd.read_csv(url, sep="\t")
+df.head()
+
+   
 
