@@ -99,22 +99,6 @@ Lecture 1 introduces:
 
 ---
 
-# ✅ Day 02 — Data Analytics with Python (NPTEL)
-## Topics: Installing Python • Fundamentals of Python • Data Visualisation
-
-![Day](https://img.shields.io/badge/Day-02-blue)
-![Python](https://img.shields.io/badge/Python-Setup%20%26%20Basics-yellow?logo=python&logoColor=white)
-![Topic](https://img.shields.io/badge/Topic-Data%20Visualisation-brightgreen)
-
----
-
-## 📌 Overview
-
-Day 02 focuses on building the Python foundation required for Data Analytics.
-
-   - OR directly launch **Jupyter Notebook**
-
----
 
    
 
