@@ -112,18 +112,6 @@ Lecture 1 introduces:
 
 Day 02 focuses on building the Python foundation required for Data Analytics.
 
-In this day, we cover:
-1. ✅ Installing Python  
-2. ✅ Fundamentals of Python  
-3. ✅ Data Visualisation basics
-
----
-
-# 1️⃣ Installing Python
-
-To start data analytics using Python, the first step is setting up Python properly.
-
----
    - OR directly launch **Jupyter Notebook**
 
 ---
