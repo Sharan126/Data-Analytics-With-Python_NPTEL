@@ -31,7 +31,6 @@ learnings:
 - Importance of selecting the **correct methodology**
 
 
-
 ---
 
 
