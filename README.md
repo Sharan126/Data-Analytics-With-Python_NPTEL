@@ -30,7 +30,6 @@ learnings:
 - Various **methodologies**
 - Importance of selecting the **correct methodology**
 
-
 ---
 
 
