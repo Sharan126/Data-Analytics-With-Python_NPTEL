@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍🏫 Course Detail
+### 👨‍🏫 Course Detai
 - **Course Name:** Data Analytics with Python  
 - **Platform:** NPTEL Online Certification  
 - **Instructor:** Dr. A. Ramesh  
