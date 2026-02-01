@@ -1,4 +1,4 @@
-# Data-Analyt-With-Python-NPTEL
+# Data-Analyti-With-Python-NPTEL
 
 ![Lecture](https://img.shields.io/badge/Lecture-01-blue)
 ![Topic](https://img.shields.io/badge/Topic-Introduction%20to%20Data%20Analytics-brightgreen)
