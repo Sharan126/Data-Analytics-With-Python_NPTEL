@@ -1,4 +1,4 @@
-# ✅ Day 03 — Python Fundamentals II + Data Handling & Visual
+# ✅ Day 03 — Python Fundamentals II + Data Handling & Visuali
 
 ![Python](https://img.shields.io/badge/Python-Pandas-blue?logo=python)
 ![Topic](https://img.shields.io/badge/Topic-Data%20Subsetting-green)
