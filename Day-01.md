@@ -1,4 +1,4 @@
-## Day-01: Introduction to Data Analyt                
+## Day-01: Introduction to Data Analyti                
 
 ⚠️ Important Warning in Analytics (Most Students Mistake)
 The danger in using quantitative methods is **not** calculation.
