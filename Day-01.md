@@ -1,4 +1,4 @@
-## Day-01: Introdu      
+## Day-01:     
 
 ⚠️ Important Warning in Analytics (Most Students Mistake)
 The danger in using quantitative methods is **not** calculation.
