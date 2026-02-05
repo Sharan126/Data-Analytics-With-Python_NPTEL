@@ -7,7 +7,7 @@
 ---
 
 
- lecture covers:
+ this lecture covers:
 
 - Subsetting rows using `loc` and `iloc`
 - Subsetting columns
