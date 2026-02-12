@@ -22,7 +22,7 @@ The main focus of this course is to build **conceptual understanding** through *
 
 This course helps you become confident using analytics in:
 - ✅ Career
-- ✅ Business decision-making
+- ✅ Business decision-makin
 - ✅ Everyday lif
 
 learnings:
