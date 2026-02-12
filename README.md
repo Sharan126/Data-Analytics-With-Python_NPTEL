@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍🏫 Course Information
+### 👨‍🏫 Course Information:
 - **Course Name:** Data Analytics with 
 - **Platform:** NPTEL Online Certification  
 - **Instructor:** Dr. A. Ramesh  
