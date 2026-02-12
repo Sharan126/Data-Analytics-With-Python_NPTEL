@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍🏫 Course Information
-- **Course Name:** Data Analytics with Python  
+- **Course Name:** Data Analytics with Pytho
 - **Platform:** NPTEL Online Certification  
 - **Instructor:** Dr. A. Ramesh  
 - **Department:** Management, IIT Roorkee  
