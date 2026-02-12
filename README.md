@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 Objective of the C
+## 🎯 Objective of the 
 
 The main focus of this course is to build **conceptual understanding** through **simple and practical examples**, rather than using a repetitive *“point & click” mentality*.
 
