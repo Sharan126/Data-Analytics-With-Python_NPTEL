@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 Objective of the Cour
+## 🎯 Objective of the Cours
 
 The main focus of this course is to build **conceptual understanding** through **simple and practical examples**, rather than using a repetitive *“point & click” mentality*.
 
