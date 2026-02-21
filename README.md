@@ -8,7 +8,7 @@
 
 ### 👨‍🏫 Course Information:
 - **Course Name:** Data Analytics with
-- **Platform:** NPTEL Online Certific  
+- **Platform:** NPTEL Online Certifi  
 - **Instructor:** Dr. A. Ramesh  
 - **Department:** Management, IIT Roorkee  
 - **Weeks:**  12
