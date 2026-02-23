@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 b of the Courses
+## 🎯  of the Courses
 
 The main focus of this course is to build **conceptual understanding** through **simple and practical examples**, rather than using a repetitive *“point & click” mentality*.
 
